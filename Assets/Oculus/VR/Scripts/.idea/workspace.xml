@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0df5f5b3-bdc8-493f-8d56-5a1f5bb55177" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/AssetImportWorker0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/AssetImportWorker1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/AssetImportWorker2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/AssetImportWorker3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-AssetImportWorker0-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-AssetImportWorker1-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-AssetImportWorker2-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-AssetImportWorker3-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-6.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-8.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logs/shadercompiler-UnityShaderCompiler.exe-9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../UserSettings/Layouts/default-6000.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../UserSettings/Layouts/default-6000.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../UserSettings/Search.settings" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../UserSettings/Search.settings" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OVRControllerDrivenHandPosesSample.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="38cIkrpOUrVn4ckbegclKVcPzgA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Attach to Process.15096:backgroundTaskHost.executor": "Debug",
+    "Attach to Unity Player.Unity.exe (ProjectionSpray).executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Victor",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unity.exe (ProjectionSpray)" type="UnityPlayer" factoryName="UnityAttachToPlayer" temporary="true">
+      <option name="host" value="127.0.0.1" />
+      <option name="pid" value="22064" />
+      <option name="playerId" value="Editor(Unity.exe-ProjectionSpray)" />
+      <option name="playerInstanceId" value="ProjectionSpray" />
+      <option name="port" value="56064" />
+      <option name="projectName" value="ProjectionSpray" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Attach to Unity Player.Unity.exe (ProjectionSpray)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0df5f5b3-bdc8-493f-8d56-5a1f5bb55177" name="Changes" comment="" />
+      <created>1769092579904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769092579904</updated>
+      <workItem from="1769092581462" duration="24000" />
+      <workItem from="1769092707945" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
