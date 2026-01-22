@@ -1,0 +1,306 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.35f1 (9a3bc604008a) revision 10107846'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Professional' Language: 'pt' Physical Memory: 16087 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63038
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray
+C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [10204]  Target information:
+
+Player connection [10204]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 796570307 [EditorId] 796570307 [Version] 1048832 [Id] WindowsEditor(7,Note-107277) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10204]  * "[IP] 26.147.95.184 [Port] 0 [Flags] 2 [Guid] 796570307 [EditorId] 796570307 [Version] 1048832 [Id] WindowsEditor(7,Note-107277) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10204]  * "[IP] 172.19.6.251 [Port] 0 [Flags] 2 [Guid] 796570307 [EditorId] 796570307 [Version] 1048832 [Id] WindowsEditor(7,Note-107277) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10204] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [10204] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.35f1 (9a3bc604008a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28a1)
+    Vendor:   NVIDIA
+    VRAM:     5936 MB
+    Driver:   31.0.15.4618
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56372
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.007221 seconds.
+- Loaded All Assemblies, in  0.281 seconds
+Native extension for LinuxStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 165 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.441 seconds
+Domain Reload Profiling: 721ms
+	BeginReloadAssembly (89ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (117ms)
+		LoadAssemblies (88ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (114ms)
+			TypeCache.Refresh (113ms)
+				TypeCache.ScanAssembly (103ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (441ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (418ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (244ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (93ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.275 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.268 seconds
+Domain Reload Profiling: 541ms
+	BeginReloadAssembly (180ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (15ms)
+	LoadAllAssembliesAndSetupDomain (25ms)
+		LoadAssemblies (132ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (8ms)
+			BuildScriptInfoCaches (1ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (268ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (181ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (89ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 79 unused Assets / (45.3 KB). Loaded Objects now: 582.
+Memory consumption went from 55.3 MB to 55.3 MB.
+Total: 3.359400 ms (FindLiveObjects: 0.030400 ms CreateObjectMapping: 0.005600 ms MarkObjects: 3.246400 ms  DeleteObjects: 0.076200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 66792.991915 seconds.
+  path: Assets/ProjectionSpray/Scenes/First.unity
+  artifactKey: Guid(dd3651ccf1f63544d9fc973b2b9361c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectionSpray/Scenes/First.unity using Guid(dd3651ccf1f63544d9fc973b2b9361c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10033ddb5b78427a60378339d08dcc0c') in 0.0044577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.044056 seconds.
+  path: Assets/CGINC/BillBoardCommon.cginc
+  artifactKey: Guid(1acc0c6477f5b45e6bae6052999b1678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CGINC/BillBoardCommon.cginc using Guid(1acc0c6477f5b45e6bae6052999b1678) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22125f6070e3ca553dabcfb7575ce915') in 0.0146198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/CGINC/ColorCollect.cginc
+  artifactKey: Guid(32d1c23f1af3f41a48819bb49d83ba6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CGINC/ColorCollect.cginc using Guid(32d1c23f1af3f41a48819bb49d83ba6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a65766e9114fb9987296807abdd152f1') in 0.0011689 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/CGINC/ClassicNoise3D.cginc
+  artifactKey: Guid(55bfd6cc628694401936d6beef3dd7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CGINC/ClassicNoise3D.cginc using Guid(55bfd6cc628694401936d6beef3dd7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c01de9742f12f93368747c2941aba1b6') in 0.0012101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/CGINC/Transform.cginc
+  artifactKey: Guid(97d2414e8c0631a4e92f31a14936d764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CGINC/Transform.cginc using Guid(97d2414e8c0631a4e92f31a14936d764) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eaaead1910603c25e4a35edc23048330') in 0.0007156 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/CGINC/PostBlendCommon.cginc
+  artifactKey: Guid(b2e64bbc082024fd686e48667c80ba6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CGINC/PostBlendCommon.cginc using Guid(b2e64bbc082024fd686e48667c80ba6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d58e3f5bd9b0670c99ddde18003e7c5') in 0.000866 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/CGINC/SimplexNoise3D.cginc
+  artifactKey: Guid(dfd20fd8623da4c40bb97b653923f4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CGINC/SimplexNoise3D.cginc using Guid(dfd20fd8623da4c40bb97b653923f4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '419153c731b04c2dfb71ab3d0bea2a8b') in 0.0005906 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/CGINC/CoonsCurve.cginc
+  artifactKey: Guid(3c3e6636ecec64a7cbf5739e3ab560a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CGINC/CoonsCurve.cginc using Guid(3c3e6636ecec64a7cbf5739e3ab560a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c9678e8a24de0a6c0c90b4fc487181e9') in 0.0004909 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.787751 seconds.
+  path: Assets/ProjectionSpray/Scenes/First/ReflectionProbe-0.exr
+  artifactKey: Guid(76f13fb696e7f854e95d3373a16cb7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectionSpray/Scenes/First/ReflectionProbe-0.exr using Guid(76f13fb696e7f854e95d3373a16cb7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06adb18561c427e2c3729e8ed88281d0') in 0.0830882 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 520.281267 seconds.
+  path: Assets/ProjectionSpray/Materials/Hidden_EdgeThicken.mat
+  artifactKey: Guid(c72d4e60ce752a841a523859b816ed92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectionSpray/Materials/Hidden_EdgeThicken.mat using Guid(c72d4e60ce752a841a523859b816ed92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65d73c1689d3aa63de30dedd1f03b0fa') in 0.0359736 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ProjectionSpray/Materials/Hidden_ProjectionSpray.mat
+  artifactKey: Guid(77ea5e4ebb59c844a83826985e1369d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectionSpray/Materials/Hidden_ProjectionSpray.mat using Guid(77ea5e4ebb59c844a83826985e1369d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01458f014950e38a96854f40c5b020d4') in 0.0453679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ProjectionSpray/Materials/Hidden_SprayPaintTexGen.mat
+  artifactKey: Guid(21cbd2b7bacc2994eae17bcba09f14c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectionSpray/Materials/Hidden_SprayPaintTexGen.mat using Guid(21cbd2b7bacc2994eae17bcba09f14c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c0a65db25a589b318b090e347d237306') in 0.0162847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
