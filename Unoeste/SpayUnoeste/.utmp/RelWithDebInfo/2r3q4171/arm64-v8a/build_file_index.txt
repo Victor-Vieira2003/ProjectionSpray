@@ -1,0 +1,2 @@
+C:\xampp\htdocs\GIT\ProjectionSpray - Unoeste\ProjectionSpray\Unoeste\SpayUnoeste\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\xampp\htdocs\GIT\ProjectionSpray - Unoeste\ProjectionSpray\Unoeste\SpayUnoeste\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

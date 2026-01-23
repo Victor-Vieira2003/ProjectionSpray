@@ -1,0 +1,10 @@
+# ninja log v5
+202	5535	7908142552950928	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	48b8c790fc63ee46
+2	5666	7908142554355268	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d9c04b09783348ab
+96	5668	7908142553838742	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cbc0c78284c3a1ab
+148	5835	7908142556135655	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	46f3d6fbc6bda796
+178	5841	7908142556239999	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6d6ecff04b1b36d3
+48	6118	7908142559042879	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c33a4bcbe9b485f5
+69	6548	7908142563276595	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a1682d44fe894cab
+27	7360	7908142571567667	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	359b05b907ff65c6
+7361	7604	7908142574170166	C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray/Unoeste/SpayUnoeste/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2r3q4171/obj/arm64-v8a/libgame.so	c83812de151c8bf1

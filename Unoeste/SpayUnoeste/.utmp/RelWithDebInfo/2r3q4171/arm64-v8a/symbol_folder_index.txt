@@ -1,0 +1,1 @@
+C:\xampp\htdocs\GIT\ProjectionSpray - Unoeste\ProjectionSpray\Unoeste\SpayUnoeste\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2r3q4171\obj\arm64-v8a
