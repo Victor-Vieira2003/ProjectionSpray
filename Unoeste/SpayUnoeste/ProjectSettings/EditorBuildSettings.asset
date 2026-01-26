@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+  - enabled: 0
+    path: Assets/Scenes/Caneta.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Spray.unity
+    guid: ae71d3be8184fd04892ec2eda7264f26
+  - enabled: 0
+    path: Assets/Plugins/CW/PaintIn3D/Examples/VR HVLP.unity
+    guid: 4d9771610753a5140aeeabf36b96bc70
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 331a222e5b518534dafc8b4a2b93e15a, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
