@@ -1,10 +1,19 @@
 # ninja log v5
 26	2119	7908947142342905	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cbc0c78284c3a1ab
+56	2348	7908947144567547	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6d6ecff04b1b36d3
 11	2158	7908947142748575	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d9c04b09783348ab
+18	2463	7908947145742187	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c33a4bcbe9b485f5
 66	2217	7908947143225115	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	48b8c790fc63ee46
 35	2310	7908947144232561	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	46f3d6fbc6bda796
-56	2348	7908947144567547	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6d6ecff04b1b36d3
-18	2463	7908947145742187	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c33a4bcbe9b485f5
 46	2693	7908947148035264	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a1682d44fe894cab
 0	2880	7908947149950169	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	359b05b907ff65c6
 2881	3069	7908947151911297	C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray/Unoeste/SpayUnoeste/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2r3q4171/obj/arm64-v8a/libgame.so	c83812de151c8bf1
+124	7843	7914732258588953	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cbc0c78284c3a1ab
+82	7890	7914732260315306	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	48b8c790fc63ee46
+34	7896	7914732259742808	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d9c04b09783348ab
+52	8143	7914732261691380	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	46f3d6fbc6bda796
+109	8587	7914732264841199	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6d6ecff04b1b36d3
+68	8679	7914732268209868	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c33a4bcbe9b485f5
+95	9038	7914732271548493	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a1682d44fe894cab
+2	9765	7914732279143851	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	359b05b907ff65c6
+9766	10308	7914732284659359	C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray/Unoeste/SpayUnoeste/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2r3q4171/obj/arm64-v8a/libgame.so	c83812de151c8bf1

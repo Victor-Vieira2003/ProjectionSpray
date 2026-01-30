@@ -15,7 +15,7 @@ C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray/Unoeste/SpayUnoest
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56628
+53578
 -job-worker-count
 7
 -background-job-worker-count
@@ -59,16 +59,16 @@ C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray/Unoeste/SpayUnoest
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [25572]  Target information:
+Player connection [24556]  Target information:
 
-Player connection [25572]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2917745682 [EditorId] 2917745682 [Version] 1048832 [Id] WindowsEditor(7,Note-107277) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [24556]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 883010969 [EditorId] 883010969 [Version] 1048832 [Id] WindowsEditor(7,Note-107277) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25572]  * "[IP] 26.147.95.184 [Port] 0 [Flags] 2 [Guid] 2917745682 [EditorId] 2917745682 [Version] 1048832 [Id] WindowsEditor(7,Note-107277) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [24556]  * "[IP] 26.147.95.184 [Port] 0 [Flags] 2 [Guid] 883010969 [EditorId] 883010969 [Version] 1048832 [Id] WindowsEditor(7,Note-107277) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25572]  * "[IP] 172.19.6.251 [Port] 0 [Flags] 2 [Guid] 2917745682 [EditorId] 2917745682 [Version] 1048832 [Id] WindowsEditor(7,Note-107277) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [24556]  * "[IP] 172.19.6.251 [Port] 0 [Flags] 2 [Guid] 883010969 [EditorId] 883010969 [Version] 1048832 [Id] WindowsEditor(7,Note-107277) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25572] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [25572] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [24556] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [24556] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 7
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -80,8 +80,8 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 20.74 ms, found 7 plugins.
-Preloading 2 native plugins for Editor in 4.08 ms.
+Refreshing native plugins compatible for Editor in 29.61 ms, found 7 plugins.
+Preloading 2 native plugins for Editor in 19.27 ms.
 Initialize engine version: 6000.0.35f1 (9a3bc604008a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/xampp/htdocs/GIT/ProjectionSpray - Unoeste/ProjectionSpray/Unoeste/SpayUnoeste/Assets
@@ -97,7 +97,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56480
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
@@ -107,59 +107,72 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.023041 seconds.
-- Loaded All Assemblies, in  1.334 seconds
+Registered in 0.012097 seconds.
+- Loaded All Assemblies, in  0.472 seconds
 Native extension for LinuxStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 [usbmuxd] Send listen message
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 627 ms
+Unauthorized device detected, Id: 2G0YC1ZFC400TW, please add debug authorization and reconnect.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:LogFormat (UnityEngine.LogType,string,object[])
+UnityEngine.Debug:LogFormat (string,object[])
+UnityEditor.Android.AndroidDeploymentTargetsExtension:GetKnownTargets (UnityEditor.DeploymentTargets.IDeploymentTargetsMainThreadContext,UnityEditor.ProgressHandler)
+UnityEditor.Android.TargetScanWorker:ScanSync ()
+UnityEditor.Android.TargetExtension:OnUsbDevicesChanged (UnityEditor.Hardware.UsbDevice[])
+UnityEditor.Android.TargetExtension:OnLoad ()
+UnityEditor.Modules.ModuleManager:InitializePlatformSupportModules ()
+
+Android Extension - Scanning For ADB Devices 353 ms
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  2.102 seconds
-Domain Reload Profiling: 3427ms
-	BeginReloadAssembly (338ms)
+- Finished resetting the current domain, in  1.011 seconds
+Domain Reload Profiling: 1481ms
+	BeginReloadAssembly (182ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (72ms)
-	RebuildNativeTypeToScriptingClass (25ms)
-	initialDomainReloadingComplete (135ms)
-	LoadAllAssembliesAndSetupDomain (754ms)
-		LoadAssemblies (335ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (187ms)
+		LoadAssemblies (178ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (741ms)
-			TypeCache.Refresh (737ms)
-				TypeCache.ScanAssembly (710ms)
+		AnalyzeDomain (181ms)
+			TypeCache.Refresh (178ms)
+				TypeCache.ScanAssembly (160ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (2ms)
-	FinalizeReload (2103ms)
+	FinalizeReload (1011ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1997ms)
+		SetupLoadedEditorAssemblies (972ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (823ms)
-			SetLoadedEditorAssemblies (9ms)
-			BeforeProcessingInitializeOnLoad (192ms)
-			ProcessInitializeOnLoadAttributes (765ms)
-			ProcessInitializeOnLoadMethodAttributes (206ms)
+			InitializePlatformSupportModulesInManaged (665ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (59ms)
+			ProcessInitializeOnLoadAttributes (168ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
 			AfterProcessingInitializeOnLoad (0ms)
-			EditorAssembliesLoaded (1ms)
+			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
 ========================================================================
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.180 seconds
-Refreshing native plugins compatible for Editor in 24.79 ms, found 7 plugins.
+- Loaded All Assemblies, in  1.342 seconds
+Refreshing native plugins compatible for Editor in 5.61 ms, found 7 plugins.
 Native extension for LinuxStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
@@ -171,7 +184,7 @@ Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-Refreshing native plugins compatible for Editor in 15.68 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 5.12 ms, found 7 plugins.
 [XR] OculusXRPlugin: registering subsystems
 [XR] Unable to register display lifecyle provider: [1]
 [XR] Oculus Input lifecycle provider registered.
@@ -184,250 +197,45 @@ Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  2.959 seconds
-Domain Reload Profiling: 5093ms
-	BeginReloadAssembly (372ms)
+- Finished resetting the current domain, in  1.122 seconds
+Domain Reload Profiling: 2449ms
+	BeginReloadAssembly (198ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (14ms)
+		DisableScriptedObjects (8ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (56ms)
-	RebuildCommonClasses (84ms)
-	RebuildNativeTypeToScriptingClass (28ms)
-	initialDomainReloadingComplete (178ms)
-	LoadAllAssembliesAndSetupDomain (1472ms)
-		LoadAssemblies (1120ms)
+		CreateAndSetChildDomain (39ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (1022ms)
+		LoadAssemblies (830ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (587ms)
-			TypeCache.Refresh (401ms)
-				TypeCache.ScanAssembly (367ms)
-			BuildScriptInfoCaches (131ms)
-			ResolveRequiredComponents (49ms)
-	FinalizeReload (2960ms)
+		AnalyzeDomain (310ms)
+			TypeCache.Refresh (200ms)
+				TypeCache.ScanAssembly (180ms)
+			BuildScriptInfoCaches (85ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1123ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (2538ms)
+		SetupLoadedEditorAssemblies (920ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (39ms)
-			SetLoadedEditorAssemblies (9ms)
-			BeforeProcessingInitializeOnLoad (845ms)
-			ProcessInitializeOnLoadAttributes (1277ms)
-			ProcessInitializeOnLoadMethodAttributes (357ms)
-			AfterProcessingInitializeOnLoad (10ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (144ms)
+			ProcessInitializeOnLoadAttributes (372ms)
+			ProcessInitializeOnLoadMethodAttributes (370ms)
+			AfterProcessingInitializeOnLoad (4ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (12ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
 Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 17.32 ms, found 7 plugins.
-Preloading 2 native plugins for Editor in 0.35 ms.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 9.91 ms, found 7 plugins.
+Preloading 2 native plugins for Editor in 0.29 ms.
 Unloading 324 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 7846 unused Assets / (5.3 MB). Loaded Objects now: 8647.
-Memory consumption went from 212.9 MB to 207.6 MB.
-Total: 22.349400 ms (FindLiveObjects: 1.638500 ms CreateObjectMapping: 0.538300 ms MarkObjects: 15.149400 ms  DeleteObjects: 5.020400 ms)
+Unloading 7847 unused Assets / (5.3 MB). Loaded Objects now: 8648.
+Memory consumption went from 214.6 MB to 209.4 MB.
+Total: 14.034700 ms (FindLiveObjects: 0.836000 ms CreateObjectMapping: 0.742100 ms MarkObjects: 8.389900 ms  DeleteObjects: 4.064500 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 82371.911394 seconds.
-  path: Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRRightHandSynthetic.prefab
-  artifactKey: Guid(94313e563929cb3499e3989be338a213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRRightHandSynthetic.prefab using Guid(94313e563929cb3499e3989be338a213) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '56ef77b3b609cd718c9f78bdb6064fd0') in 1.1709984 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 343
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001834 seconds.
-  path: Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_R.prefab
-  artifactKey: Guid(e201a24a09e942042b93390d0444d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_R.prefab using Guid(e201a24a09e942042b93390d0444d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38f1afbcc2c70cca42dfaef769d05c90') in 0.1065611 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 334
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Oculus/VR/Prefabs/OVRTrackedKeyboard/OVRHandMask_R.prefab
-  artifactKey: Guid(f87c1bb867ed6194ea69c0d3a05a6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Prefabs/OVRTrackedKeyboard/OVRHandMask_R.prefab using Guid(f87c1bb867ed6194ea69c0d3a05a6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e0999ac66a3ad5014ae872c6adbbfa8') in 0.2228536 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 241
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000095 seconds.
-  path: Assets/Oculus/Interaction/Samples/Prefabs/OVRIntegration/Legacy/InteractionRigOVR-FullSynthetic.prefab
-  artifactKey: Guid(d93b7e04b48cd7b4fa849695dba2ce9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Interaction/Samples/Prefabs/OVRIntegration/Legacy/InteractionRigOVR-FullSynthetic.prefab using Guid(d93b7e04b48cd7b4fa849695dba2ce9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a114521c8161b52ada38e407898df0f8') in 0.5615661 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3741
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/Oculus/VR/Editor/Icons/ovr_icon_bug.png
-  artifactKey: Guid(66ebdb1a1469f66469249a72d7082b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Editor/Icons/ovr_icon_bug.png using Guid(66ebdb1a1469f66469249a72d7082b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0b4b4a923238362fde7d88c080bf6c9') in 0.0709166 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000081 seconds.
-  path: Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/TouchHandGrab/OVRTouchHandGrabInteractor.prefab
-  artifactKey: Guid(eacb945ff4b1f71479625dd1c973b0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/TouchHandGrab/OVRTouchHandGrabInteractor.prefab using Guid(eacb945ff4b1f71479625dd1c973b0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d3fb9a6835e59b4a1d5f6c60da8ab24') in 0.1235936 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 585
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab
-  artifactKey: Guid(c6a74181d4000004887343fb87b3c53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab using Guid(c6a74181d4000004887343fb87b3c53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '671e37976888494060c65142dbeda2e5') in 0.0498523 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 334
-
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.299 seconds
-Refreshing native plugins compatible for Editor in 17.09 ms, found 7 plugins.
-Native extension for LinuxStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Native extension for UWP target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Refreshing native plugins compatible for Editor in 22.04 ms, found 7 plugins.
-Mono: successfully reloaded assembly
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  2.132 seconds
-Domain Reload Profiling: 3431ms
-	BeginReloadAssembly (375ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (33ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (1ms)
-		CreateAndSetChildDomain (99ms)
-	RebuildCommonClasses (55ms)
-	RebuildNativeTypeToScriptingClass (19ms)
-	initialDomainReloadingComplete (45ms)
-	LoadAllAssembliesAndSetupDomain (804ms)
-		LoadAssemblies (650ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (327ms)
-			TypeCache.Refresh (10ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (280ms)
-			ResolveRequiredComponents (30ms)
-	FinalizeReload (2133ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1728ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (33ms)
-			SetLoadedEditorAssemblies (12ms)
-			BeforeProcessingInitializeOnLoad (242ms)
-			ProcessInitializeOnLoadAttributes (1120ms)
-			ProcessInitializeOnLoadMethodAttributes (307ms)
-			AfterProcessingInitializeOnLoad (13ms)
-			EditorAssembliesLoaded (1ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (24ms)
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 19.60 ms, found 7 plugins.
-Preloading 2 native plugins for Editor in 0.46 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 7843 unused Assets / (4.9 MB). Loaded Objects now: 8703.
-Memory consumption went from 191.7 MB to 186.8 MB.
-Total: 17.793400 ms (FindLiveObjects: 1.417600 ms CreateObjectMapping: 0.793100 ms MarkObjects: 11.746200 ms  DeleteObjects: 3.833400 ms)
-
-Prepare: number of updated asset objects reloaded= 1
-========================================================================
-Received Import Request.
-  Time since last request: 432.303097 seconds.
-  path: Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRFromLeftHandPrefab.prefab
-  artifactKey: Guid(bf40bb80d130145429b3589de445204b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRFromLeftHandPrefab.prefab using Guid(bf40bb80d130145429b3589de445204b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8cf652fdf0423ed326bf3793a33ac325') in 1.314391 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 173
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_R.prefab
-  artifactKey: Guid(e201a24a09e942042b93390d0444d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_R.prefab using Guid(e201a24a09e942042b93390d0444d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '23a929c7cf21d26c031c9f6b301609b5') in 0.0367555 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 334
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/HandTracking/Prefabs/OVRHandPrefabBuildingBlock.prefab
-  artifactKey: Guid(929a4e1a0ccfe2048b9390905f78fc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/HandTracking/Prefabs/OVRHandPrefabBuildingBlock.prefab using Guid(929a4e1a0ccfe2048b9390905f78fc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bda08e05f8e18bb5b035151b40ff8426') in 0.00619 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Oculus/VR/Prefabs/OVRTrackedKeyboard/OVRHandMask_R.prefab
-  artifactKey: Guid(f87c1bb867ed6194ea69c0d3a05a6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Prefabs/OVRTrackedKeyboard/OVRHandMask_R.prefab using Guid(f87c1bb867ed6194ea69c0d3a05a6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b92a8256d3be242b0220bea39e977048') in 0.0481597 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 241
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000096 seconds.
-  path: Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRLeftHandVisual.prefab
-  artifactKey: Guid(70d02a90551f23042a882cdceeaf8e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRLeftHandVisual.prefab using Guid(70d02a90551f23042a882cdceeaf8e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '488c7cad99e609641911e59805655141') in 0.0290588 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 172
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Oculus/VR/Prefabs/OVRHandPrefab.prefab
-  artifactKey: Guid(835e735ca71bf78459fb2cababd74112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Prefabs/OVRHandPrefab.prefab using Guid(835e735ca71bf78459fb2cababd74112) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6871bbe4c46903612d1bd87ece14486') in 0.0059818 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/DistanceHandGrab/Reticles/OVRRightHandReticle.prefab
-  artifactKey: Guid(9fa0825d6b962924e8124b0b7d0595f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/DistanceHandGrab/Reticles/OVRRightHandReticle.prefab using Guid(9fa0825d6b962924e8124b0b7d0595f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '655839b15cb9c91ce19cc25fe84026fa') in 0.0507055 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 519
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/TouchHandGrab/OVRTouchHandGrabInteractor.prefab
-  artifactKey: Guid(eacb945ff4b1f71479625dd1c973b0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/TouchHandGrab/OVRTouchHandGrabInteractor.prefab using Guid(eacb945ff4b1f71479625dd1c973b0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e4da298fd5bd1ec6c147f37e65beadb') in 0.0455903 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 585
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000055 seconds.
-  path: Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab
-  artifactKey: Guid(c6a74181d4000004887343fb87b3c53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab using Guid(c6a74181d4000004887343fb87b3c53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '09dfa5286979a774774ebcbcb94fb700') in 0.0707089 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 334
-
-========================================================================
-Received Prepare
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 15.13 ms, found 7 plugins.
-Preloading 2 native plugins for Editor in 0.28 ms.
-Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 16 unused Assets / (2.3 MB). Loaded Objects now: 8844.
-Memory consumption went from 192.2 MB to 189.8 MB.
-Total: 17.670000 ms (FindLiveObjects: 0.668900 ms CreateObjectMapping: 0.422300 ms MarkObjects: 15.671000 ms  DeleteObjects: 0.905200 ms)
-
-Prepare: number of updated asset objects reloaded= 1
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
