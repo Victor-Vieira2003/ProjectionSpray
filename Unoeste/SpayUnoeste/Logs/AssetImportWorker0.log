@@ -306,3 +306,47 @@ Received Import Request.
 Start importing Assets/Matariais/Mesh Fixer (Sphere).asset using Guid(d0a1d01755438954480e7c4708a812cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38acba7d4ee2ae0feb37489f826c9974') in 0.2062732 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
 
+========================================================================
+Received Import Request.
+  Time since last request: 1843.003996 seconds.
+  path: Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+  artifactKey: Guid(3d935a63c41f0e8469121834419bcd7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettingsPerBuildTarget.asset using Guid(3d935a63c41f0e8469121834419bcd7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '613e5eb40d6b7ce3d8be9a9bdae1e2d7') in 0.4882889 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001446 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Icons/ovr_error_greybg.png
+  artifactKey: Guid(d0390c3a10ac76641b718f04d77f80ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Icons/ovr_error_greybg.png using Guid(d0390c3a10ac76641b718f04d77f80ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dfd9b001891c306d1a7112167504cfd9') in 0.3805235 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Oculus/Interaction/Samples/Prefabs/OVRIntegration/Legacy/InteractionRigOVR-FullSynthetic.prefab
+  artifactKey: Guid(d93b7e04b48cd7b4fa849695dba2ce9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Prefabs/OVRIntegration/Legacy/InteractionRigOVR-FullSynthetic.prefab using Guid(d93b7e04b48cd7b4fa849695dba2ce9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0354e47398a2b6005d763a945b8c753e') in 2.023695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3741
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Oculus/Interaction/Samples/Audio/Prefabs/DistanceGrabHoverAudio.prefab
+  artifactKey: Guid(13264d633d3544946b062a9df1e2e40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Audio/Prefabs/DistanceGrabHoverAudio.prefab using Guid(13264d633d3544946b062a9df1e2e40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94d27df88ca572423dab5a3c653eefaa') in 0.0492275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Oculus/Interaction/Samples/Audio/Prefabs/DistanceGrabUnhoverAudio.prefab
+  artifactKey: Guid(00d254c069425494ba9774b33386ea29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Audio/Prefabs/DistanceGrabUnhoverAudio.prefab using Guid(00d254c069425494ba9774b33386ea29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b934c22df2b31c854906ba00d73da5be') in 0.0509561 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
